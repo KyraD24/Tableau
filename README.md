@@ -14,10 +14,11 @@
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
 
 
-# How to change the Measurement
-- To find where to change the measure from SUM to AVERAGE next to BMI in the rows I clicked the down arrow.
--Then I placed my cursor about "Measure (sum)" and changed it to Average.
+# How I changed the Measurement
+- To find where to change the Measure from SUM to AVERAGE next to BMI in the rows I clicked the DOWN ARROW.
+-Then I PLACED MY CURSUR above "MEASURE (SUM)" and changed it to AVERAGE.
   <img width="1470" height="692" alt="Image" src="https://github.com/user-attachments/assets/1cb4ea20-9bdf-421b-b22d-dc5ed6d12b77" />
 
-
+# How I added gender.
+- I grabbed "Gender" from Table under Data and dragged it to COLOURS in the MARKS section.
 
