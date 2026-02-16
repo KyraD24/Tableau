@@ -12,9 +12,10 @@
 - To start I added Continent from the table under the data section to the column section.
 - After I added BMI and Cholesterol to the Rows and filtered them to show AVG instead of sum.
 
-  
-- To find where to change the measure from SUM to AVERAGE next to BMI in the rows I clicked the down arrow and pressed the side arrow to show many different Measurements I selected Average and done the same for Cholesterol.
-  
+# How to change the Measurement
+- To find where to change the measure from SUM to AVERAGE next to BMI in the rows I clicked the down arrow.
+-Then I placed my cursor about "Measure (sum)" and changed it to Average.
+  <img width="1470" height="692" alt="Image" src="https://github.com/user-attachments/assets/1cb4ea20-9bdf-421b-b22d-dc5ed6d12b77" />
 
 
 <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
