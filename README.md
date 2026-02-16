@@ -22,3 +22,7 @@
 # How I added gender.
 - I grabbed "Gender" from Table under Data and dragged it to COLOURS in the MARKS section.
 <img width="371" height="586" alt="Image" src="https://github.com/user-attachments/assets/755ae87f-410e-482c-b3d2-3188f1f5b524" />
+
+# How I changed the colour of Gender.
+-I pressed the DOWN ARROW next to GENDER on the RIGHT-HAND SIDE of the screen and selected the FIRST option "Edit Colours"
+-A menu will come up I clicked on MEN and selected the colour of my choice.
