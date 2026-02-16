@@ -21,4 +21,4 @@
 
 # How I added gender.
 - I grabbed "Gender" from Table under Data and dragged it to COLOURS in the MARKS section.
-
+<img width="371" height="586" alt="Image" src="https://github.com/user-attachments/assets/755ae87f-410e-482c-b3d2-3188f1f5b524" />
