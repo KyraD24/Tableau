@@ -27,3 +27,4 @@
 -I pressed the DOWN ARROW next to GENDER on the RIGHT-HAND SIDE of the screen and selected the FIRST option "Edit Colours"
 -A menu will come up I clicked on MEN and selected the colour of my choice.
 <img width="224" height="205" alt="Image" src="https://github.com/user-attachments/assets/26998d6e-c614-40d4-93f6-4daf1555377e" />
+<img width="601" height="584" alt="Image" src="https://github.com/user-attachments/assets/80af96ba-6af1-4160-8c6a-25f596187e64" />
