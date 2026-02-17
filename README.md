@@ -16,7 +16,7 @@
 - Add "**County to detail in the Marks box"**
 
 ## To change the colour of the information shown.
--At the left of the screen you should see this section under country.
+-At the left of the screen you should see **"SUM(Lung cancer)"** under country.
   <img width="1470" height="815" alt="Image" src="https://github.com/user-attachments/assets/90aab32d-382e-4102-a1d6-79a9ebb00a3a" />
 - After seeing this press drag the cursor over the **"SUM(Lung cancer)"** and press the down arrow next to it then select **"Edit Colours."**
 - I pressed **"Palette"** and scrolled until I saw the colour **"Orange-Blue Diverging"** I clicked on it then pressed the X.
