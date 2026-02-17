@@ -7,6 +7,14 @@
 - **Average Life Expectancy in Continents by Gender and Year.**
 <img width="752" height="673" alt="Image" src="https://github.com/user-attachments/assets/9720768d-e8ad-4291-855b-96451c2f075a" />
 
+# How I found Lung cancer in the UK by year on a map.
+<img width="1470" height="815" alt="Image" src="https://github.com/user-attachments/assets/90aab32d-382e-4102-a1d6-79a9ebb00a3a" />
+- Add *Longitude to colum* and *Latitude to rows* to get the world map.
+- Drag **Lung Cancer(Sum) to the colours**
+- Drag **Lung Cancer(Sum) to text to make the number of lung cancer cases visable without needing to drag the cursor over the UK.
+- Add "**County to detail in the Marks box"**
+- 
+
 
 # How I found AVG BMI and Cholesterol by Continent and Gender.
 - To start I added Continent from the table under the data section to the column section.
