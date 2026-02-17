@@ -35,3 +35,9 @@
 
 # How I found AVG Life Expectancy in Continent by Gender and Year.
 <img width="1470" height="814" alt="Image" src="https://github.com/user-attachments/assets/4f7aea8a-489a-45b6-beb6-610ec4672514" />
+
+- I started by adding the necessary data into the correct sections I added **Continent and Gender to the column.**
+- After I added **"Life Expectancy (Sum) to Rows."** I then changed the measurement to Average.
+- I added **Life expectancy (Sum)** to colours then changed the measurement again to Average.
+- (**The darker the colour the higher the average is.**)
+- 
