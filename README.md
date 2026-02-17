@@ -8,7 +8,7 @@
 <img width="752" height="673" alt="Image" src="https://github.com/user-attachments/assets/9720768d-e8ad-4291-855b-96451c2f075a" />
 
 
-# How I found this.
+# How I found AVG BMI and Cholesterol by Continent and Gender.
 - To start I added Continent from the table under the data section to the column section.
 - After I added BMI and Cholesterol to the Rows and filtered them to show Average instead of Sum.
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
@@ -30,7 +30,7 @@
 <img width="224" height="205" alt="Image" src="https://github.com/user-attachments/assets/26998d6e-c614-40d4-93f6-4daf1555377e" /> 
 
 
--A menu will come up I clicked on MEN and selected the colour of my choice.
+-A menu will come up I clicked on Men and selected the colour of my choice and did the same for Women.
 <img width="601" height="584" alt="Image" src="https://github.com/user-attachments/assets/80af96ba-6af1-4160-8c6a-25f596187e64" />
 
 # How I found this.
