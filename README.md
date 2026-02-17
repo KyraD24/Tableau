@@ -18,7 +18,9 @@
 - After I dragged **"Year"** to the **"Colour"** section in **"Marks."**
 
 ## *To change the colour of the information shown.*
+
 -At the left of the screen I saw **"SUM(Lung cancer)"** under Year.
+
 <img width="164" height="779" alt="Image" src="https://github.com/user-attachments/assets/4516b0d8-58fd-497f-a920-878f829d95fe" />
 
 - After seeing this press drag the cursor over the **"SUM(Lung cancer)"** and press the down arrow next to it then select **"Edit Colours."**
