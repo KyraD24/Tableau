@@ -27,7 +27,7 @@
 - I pressed **"Palette"** and scrolled until I saw the colour **"Orange-Blue Diverging"** I clicked on it then pressed the X.
 
 # How I found AVG BMI and Cholesterol by Continent and Gender.
-- To start I added Continent from the table under the data section to the column section.
+- To start I added Continent from the table under the data section to the column.
 - After I added BMI and Cholesterol to the Rows and filtered them to show Average instead of Sum.
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
 
@@ -38,7 +38,7 @@
   <img width="1470" height="692" alt="Image" src="https://github.com/user-attachments/assets/1cb4ea20-9bdf-421b-b22d-dc5ed6d12b77" />
 
 ## *How I added gender.*
-- I grabbed "Gender" from Table under Data and dragged it to **colours** in the **Marks** section.
+- I grabbed **"Gender"** from Table under Data and dragged it to **colours** in the **Marks** section.
 <img width="371" height="586" alt="Image" src="https://github.com/user-attachments/assets/755ae87f-410e-482c-b3d2-3188f1f5b524" />
 
 ## *How I changed the colour of Gender.*
@@ -48,8 +48,11 @@
 <img width="224" height="205" alt="Image" src="https://github.com/user-attachments/assets/26998d6e-c614-40d4-93f6-4daf1555377e" /> 
 
 
--A menu will come up I clicked on Men and selected the colour of my choice and did the same for Women.
+-A menu will come up I clicked on Men and selected the colour of my choice and did the same for Women then pressed ok.
 <img width="601" height="584" alt="Image" src="https://github.com/user-attachments/assets/80af96ba-6af1-4160-8c6a-25f596187e64" />
+
+- In **"Marks"** under **"All" Automatic is shown.**
+- I clicked on the **"Down arrow"** and selected **"Shape"**
 
 # How I found AVG Life Expectancy in Continent by Gender and Year.
 <img width="1470" height="814" alt="Image" src="https://github.com/user-attachments/assets/4f7aea8a-489a-45b6-beb6-610ec4672514" />
@@ -62,3 +65,5 @@
 
     <img width="177" height="226" alt="Image" src="https://github.com/user-attachments/assets/d6084004-3675-4028-b981-c31887fa11c3" />
 - To change the year press the side arrows on the **year block on the top right of the screen.** to go either back a year or forward.
+- To change the colour of the bar graph in the **"top right of the screen"** where it says **"AVG(Life Expectancy)"**
+- Pressed the down arrow and selected **"Edit colours"** after I selected **"Palette"** and scrolled until I saw **"Purple."**
