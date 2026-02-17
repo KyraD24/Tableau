@@ -40,5 +40,7 @@
 - After I added **"Life Expectancy (Sum) to Rows."** I then changed the measurement to Average.
 - I added **Life expectancy (Sum)** to colours then changed the measurement again to Average.
 - (**The darker the colour the higher the average is.**)
+
+  <img width="177" height="226" alt="Image" src="https://github.com/user-attachments/assets/d6084004-3675-4028-b981-c31887fa11c3" />
 - To get the year and change to how I wanted I added **Year to the Page filter** which is above the filters box in the **top left.**
 - To change the year press the side arrows on the **year block on the top right of the screen.** to go either back a year or forward.
