@@ -25,6 +25,8 @@
 
 ## How I changed the colour of Gender.
 -I pressed the DOWN ARROW next to GENDER on the RIGHT-HAND SIDE of the screen and selected the FIRST option "Edit Colours"
+
+
 <img width="224" height="205" alt="Image" src="https://github.com/user-attachments/assets/26998d6e-c614-40d4-93f6-4daf1555377e" /> 
 
 
