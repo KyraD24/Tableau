@@ -10,14 +10,17 @@
 # How I found Lung cancer in the UK by year on a map.
 <img width="1470" height="815" alt="Image" src="https://github.com/user-attachments/assets/90aab32d-382e-4102-a1d6-79a9ebb00a3a" />
 
-- Add *Longitude to colum* and *Latitude to rows* to get the world map.
-- Drag **Lung Cancer(Sum) to the colours**
-- Drag **Lung Cancer(Sum) to text to make the number of lung cancer cases visable without needing to drag the cursor over the UK.
-- Add "**County to detail in the Marks box"**
+- Add **Longitude to colum** and **Latitude to rows** to get the world map.
+- Drag **"Country"** to filters and scrolled to select the country I wanteded which was UK.
+- After I dragged **"Year"** to the **"Pages"** section above filters.
+- Then I dragged **"Country"** to the **"Detail** section in **"Marks"** below filters.
+- Then I dragged **"Country"** to the **"Marks** section again and placed it on **"Text"**
+- After I dragged **"Year"** to the **"Colour"** section in **"Marks."**
 
 ## *To change the colour of the information shown.*
--At the left of the screen you should see **"SUM(Lung cancer)"** under country.
-  <img width="1470" height="815" alt="Image" src="https://github.com/user-attachments/assets/90aab32d-382e-4102-a1d6-79a9ebb00a3a" />
+-At the left of the screen I saw **"SUM(Lung cancer)"** under Year.
+
+
 - After seeing this press drag the cursor over the **"SUM(Lung cancer)"** and press the down arrow next to it then select **"Edit Colours."**
 - I pressed **"Palette"** and scrolled until I saw the colour **"Orange-Blue Diverging"** I clicked on it then pressed the X.
 
