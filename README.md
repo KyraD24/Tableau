@@ -14,7 +14,7 @@
 - Drag **Lung Cancer(Sum) to the colours**
 - Drag **Lung Cancer(Sum) to text to make the number of lung cancer cases visable without needing to drag the cursor over the UK.
 - Add "**County to detail in the Marks box"**
-- 
+- To change the colour of the information shown 
 
 
 # How I found AVG BMI and Cholesterol by Continent and Gender.
