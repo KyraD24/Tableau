@@ -13,8 +13,8 @@
 - Add **Longitude to colum** and **Latitude to rows** to get the world map.
 - Drag **"Country"** to filters and scrolled to select the country I wanteded which was UK.
 - After I dragged **"Year"** to the **"Pages"** section above filters.
-- Then I dragged **"Country"** to the **"Detail** section in **"Marks"** below filters.
-- Then I dragged **"Country"** to the **"Marks** section again and placed it on **"Text"**
+- Then I dragged **"Country"** to the **"Detail"** section in **"Marks"** below filters.
+- Then I dragged **"Country"** to the **"Marks"** section again and placed it on **"Text"**
 - After I dragged **"Year"** to the **"Colour"** section in **"Marks."**
 
 ## *To change the colour of the information shown.*
