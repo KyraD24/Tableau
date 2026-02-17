@@ -1,7 +1,7 @@
 # Tableau
 
 
-  This Dashboard shows
+# This Dashboard shows
 - **The number of people in the UK who had lung cancer by year.**
 - **Average BMI and Cholesterol by Continent and Gender.**
 - **Average Life Expectancy in Continents by Gender and Year.**
@@ -14,16 +14,16 @@
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
 
 
-## How I changed the Measurement
+## *How I changed the Measurement*
 - To find where to change the Measure from SUM to AVERAGE next to BMI in the rows I clicked the **down arrow**.
 -Then I PLACED MY CURSUR above "MEASURE (SUM)" and changed it to AVERAGE.
   <img width="1470" height="692" alt="Image" src="https://github.com/user-attachments/assets/1cb4ea20-9bdf-421b-b22d-dc5ed6d12b77" />
 
-## How I added gender.
+## *How I added gender.*
 - I grabbed "Gender" from Table under Data and dragged it to **colours** in the **Marks** section.
 <img width="371" height="586" alt="Image" src="https://github.com/user-attachments/assets/755ae87f-410e-482c-b3d2-3188f1f5b524" />
 
-## How I changed the colour of Gender.
+## *How I changed the colour of Gender.*
 -I pressed the **down arrow** next to **"Gender"** on the **right-hand side** of the screen and selected the **first** option "Edit Colours"
 
 
