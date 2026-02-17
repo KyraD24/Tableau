@@ -19,19 +19,10 @@
 
 ## *To change the colour of the information shown.*
 -At the left of the screen I saw **"SUM(Lung cancer)"** under Year.
-
+<img width="164" height="779" alt="Image" src="https://github.com/user-attachments/assets/4516b0d8-58fd-497f-a920-878f829d95fe" />
 
 - After seeing this press drag the cursor over the **"SUM(Lung cancer)"** and press the down arrow next to it then select **"Edit Colours."**
 - I pressed **"Palette"** and scrolled until I saw the colour **"Orange-Blue Diverging"** I clicked on it then pressed the X.
-
-## *How I selected only 1 Country.*
-- On the **right side of the screen** a list of countries is there.
-- I **deselected** the **All** and scrolled down until I saw the country I wanted.
-- I selected only the one I needed which was UK.
-
-  <img width="161" height="529" alt="Image" src="https://github.com/user-attachments/assets/ad649aaa-f0e1-4280-a13e-59b1aba32562" />
-
-
 
 # How I found AVG BMI and Cholesterol by Continent and Gender.
 - To start I added Continent from the table under the data section to the column section.
