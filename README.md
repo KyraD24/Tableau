@@ -33,5 +33,5 @@
 -A menu will come up I clicked on Men and selected the colour of my choice and did the same for Women.
 <img width="601" height="584" alt="Image" src="https://github.com/user-attachments/assets/80af96ba-6af1-4160-8c6a-25f596187e64" />
 
-# How I found this.
-<img width="1470" height="691" alt="Image" src="https://github.com/user-attachments/assets/3fe731f6-d68c-4a5e-a7cb-a2589423c6f8" />
+# How I found AVG Life Expectancy in Continent by Gender and Year.
+<img width="1470" height="814" alt="Image" src="https://github.com/user-attachments/assets/4f7aea8a-489a-45b6-beb6-610ec4672514" />
