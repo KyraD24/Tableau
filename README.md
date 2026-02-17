@@ -16,7 +16,7 @@
 
 ## *How I changed the Measurement*
 - To find where to change the Measure from SUM to AVERAGE next to BMI in the rows I clicked the **down arrow**.
--Then I PLACED MY CURSUR above "MEASURE (SUM)" and changed it to AVERAGE.
+- Then I **placed my cursor above "Measure (Sum)"** and changed it to Average.
   <img width="1470" height="692" alt="Image" src="https://github.com/user-attachments/assets/1cb4ea20-9bdf-421b-b22d-dc5ed6d12b77" />
 
 ## *How I added gender.*
