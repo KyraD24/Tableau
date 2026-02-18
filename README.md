@@ -11,11 +11,11 @@
 <img width="1470" height="815" alt="Image" src="https://github.com/user-attachments/assets/90aab32d-382e-4102-a1d6-79a9ebb00a3a" />
 
 - Add **Longitude to colum** and **Latitude to rows** to get the world map.
-- Drag **"Country"** to filters and scrolled to select the country I wanteded which was UK.
-- After I dragged **"Year"** to the **"Pages"** section above filters.
-- Then I dragged **"Country"** to the **"Detail"** section in **"Marks"** below filters.
-- Then I dragged **"Country"** to the **"Marks"** section again and placed it on **"Text"**
-- After I dragged **"Year"** to the **"Colour"** section in **"Marks."**
+- To change it press **"Maps"** at the top of the screen then hover the cursor over **"Background Maps"**
+- Drag **"Country"** to filters and scrolled to select the country I wanteded which was United Kingdom.
+- After I dragged **"Year"** to the **"Pages"** section above filters this made me able to switch between years.
+- Then I dragged **"Country"** to the **"Detail"** section in **"Marks"** below and this highlighed the country. 
+- I added **"Lung cancer"** to the **"Text"** in the **"Marks"** section.
 
 ## *To change the colour of the information shown.*
 
