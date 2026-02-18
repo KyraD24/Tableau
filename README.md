@@ -26,11 +26,13 @@
 - After seeing this press drag the cursor over the **"SUM(Lung cancer)"** and press the down arrow next to it then select **"Edit Colours."**
 - I pressed **"Palette"** and scrolled until I saw the colour **"Orange-Blue Diverging"** I clicked on it then pressed the X.
 
+  ## What this shows.
+  This shows the amount of Lung cancer cases only in the UK from each year and the colours show either an increase or decrease. This could be useful for medical proffessionals doing research on lung cancer.
+  
 # How I found AVG BMI and Cholesterol by Continent and Gender.
 - To start I added Continent from the table under the data section to the column.
 - After I added BMI and Cholesterol to the Rows and filtered them to show Average instead of Sum.
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
-
 
 ## *How I changed the Measurement*
 - To find where to change the Measure from SUM to AVERAGE next to BMI in the rows I clicked the **down arrow**.
@@ -53,6 +55,10 @@
 
 - In **"Marks"** under **"All" Automatic is shown.**
 - I clicked on the **"Down arrow"** and selected **"Shape"**
+
+## What this shows.
+This data set shows the average BMI and Cholesterol by continent and gender this information could be used for researchers to show which continent and gender has higher or lower.
+
 
 # How I found AVG Life Expectancy in Continent by Gender and Year.
 <img width="1470" height="814" alt="Image" src="https://github.com/user-attachments/assets/4f7aea8a-489a-45b6-beb6-610ec4672514" />
