@@ -51,6 +51,7 @@
 
 
 -A menu will come up I clicked on Men and selected the colour of my choice and did the same for Women then pressed ok.
+
 <img width="601" height="584" alt="Image" src="https://github.com/user-attachments/assets/80af96ba-6af1-4160-8c6a-25f596187e64" />
 
 - In **"Marks"** under **"All" Automatic is shown.**
