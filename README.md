@@ -12,7 +12,7 @@
 
 - Add **Longitude to colum** and **Latitude to rows** to get the world map.
 - To change it press **"Maps"** at the top of the screen then hover the cursor over **"Background Maps"**
-- Drag **"Country"** to filters and scrolled to select the country I wanteded which was United Kingdom.
+- Drag **"Country"** to filters and scrolled to select the country I wanteded which was United Kingdom then I pressed ok.
 - After I dragged **"Year"** to the **"Pages"** section above filters this made me able to switch between years.
 - Then I dragged **"Country"** to the **"Detail"** section in **"Marks"** below and this highlighed the country. 
 - I added **"Lung cancer"** to the **"Text"** in the **"Marks"** section.
