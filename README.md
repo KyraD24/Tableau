@@ -30,7 +30,7 @@
   This shows the amount of Lung cancer cases only in the UK from each year and the colours show either an increase or decrease. This could be useful for medical proffessionals doing research on lung cancer.
   
 # How I found AVG BMI and Cholesterol by Continent and Gender.
-- To start I added Continent from the table under the data section to the column.
+- To start I added Continent to the column.
 - After I added BMI and Cholesterol to the Rows and filtered them to show Average instead of Sum.
   <img width="1470" height="689" alt="Image" src="https://github.com/user-attachments/assets/80f92f1b-39b4-4690-9855-e3f4a42cc8ad" />
 
